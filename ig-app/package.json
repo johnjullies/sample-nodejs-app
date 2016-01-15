@@ -1,0 +1,16 @@
+{
+  "name": "ig-app",
+  "version": "1.0.0",
+  "description": "Sample Node app that uses Instagram's API to show popular images.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Jullies Palma",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "instagram-node": "^0.5.8"
+  }
+}

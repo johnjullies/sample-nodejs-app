@@ -1,0 +1,22 @@
+{
+  "name": "basic-node-app",
+  "main": "server.js",
+  "description": "This is a sample NodeJS app I made while learning Node. Based on this book by Scotch.io: https://scotch.io/books/build-your-first-node-js-app",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnjullies/sample-nodejs-app.git"
+  },
+  "author": "John Jullies Palma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnjullies/sample-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/johnjullies/sample-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
